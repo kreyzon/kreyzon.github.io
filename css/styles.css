@@ -59,6 +59,7 @@
       -ms-flex: 1;
           flex: 1;
   line-height: 42px;
+  color:#2980b9;
 }
 
 .portfolio-header .mdl-layout__drawer-button {
